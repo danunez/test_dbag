@@ -1,0 +1,1 @@
+default[:motd][:dir]       = "/etc"
