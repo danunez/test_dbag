@@ -1,0 +1,6 @@
+{
+  "profiles": [
+    {"host": "server1.internal.com", "profile": "profile_001"},
+    {"host": "server2.internal.com", "profile": "profile_002"}
+  ]
+}
